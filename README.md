@@ -60,4 +60,5 @@ This project implements a **relational database** using **MySQL** to manage clin
 
 ## **Conclusion**
 This **Clinic Booking System** is designed to provide an efficient and scalable solution for managing healthcare appointments. The **DBMS automates booking, tracking treatments, processing payments**, and maintains a structured **relationship-driven database** to support clinic operations.
+![image alt](https://github.com/paulkeysdev/Clinic-Booking_System/blob/67dead68c31cc9140be3a13d49bdfc46f5d878ca/ERD.png)
 
